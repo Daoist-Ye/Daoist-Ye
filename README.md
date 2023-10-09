@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Devlopment
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Blockchain Projects.
-- 📫 How to reach me yashanand598@gmail.com
+
 
 
 
